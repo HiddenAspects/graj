@@ -2,3 +2,8 @@ första
 andra
 tre
 fjärde:ändrar tredje till tre istället
+
+sektion 2:
+första
+andra
+tredje
