@@ -1,0 +1,6 @@
+mm
+
+modifierar genom att skriva det här. skriv vim mm.txt för att redigera texten i vim
+
+tryck insert för att börja skriva, sen escape, :, w, q (wrkfslfkslkf
+edmodifying in staging arffffffffffggggggkkkkkkkkkkkkbbbbbbbbbbbslfklsfklsk11122221fkgffffe
